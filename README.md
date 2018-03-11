@@ -21,7 +21,7 @@ $ git clone git@github.com:murtaza98/Handwritten-Character-Recognition
 $ pip install -r requirements.txt
 ```
 
-#####install PyQt4
+##### install PyQt4
 
 open file location where PyQt4 whl file is downloaded
 '''console
