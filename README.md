@@ -24,12 +24,12 @@ $ pip install -r requirements.txt
 ##### install PyQt4
 
 open file location where PyQt4 whl file is downloaded
-'''console
+```console
 $ pip install filename.whl
-'''
+```
 
 To launch the application
 
-'''console
+```console
 $ python upload.py
-'''
+```
